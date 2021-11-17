@@ -29,4 +29,6 @@ while True:
 
 for a in lst1:
     if a in lst2 and a not in lst3:
+
         print(a)
+
