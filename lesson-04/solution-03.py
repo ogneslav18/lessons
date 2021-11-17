@@ -1,7 +1,6 @@
 lst1 = []
 lst2 = []
 lst3 = []
-
 while True:
     a = input("Введите элемент в список 1: ")
     try:
